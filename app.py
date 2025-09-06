@@ -8,6 +8,7 @@ app = Flask(__name__)
 # Predefined color codes
 COLOR_CODES = {
     "blue": "#2980b9",
+    "green":"##2980B9",
 }
 
 # Select color: from env var or random choice
